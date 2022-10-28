@@ -6,7 +6,7 @@ require (
 	github.com/armosec/kubescape v1.0.139
 	github.com/brancz/gojsontoyaml v0.0.0-20200602132005-3697ded27e8c
 	github.com/bwplotka/mdox v0.9.0
-	github.com/google/go-jsonnet v0.18.0
+	github.com/google/go-jsonnet v0.19.1
 	github.com/jsonnet-bundler/jsonnet-bundler v0.4.0
 	github.com/yannh/kubeconform v0.4.13
 	sigs.k8s.io/yaml v1.3.0 // indirect
@@ -130,7 +130,7 @@ require (
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97 // indirect
 	golang.org/x/net v0.0.0-20210825183410-e898025ed96a // indirect
 	golang.org/x/oauth2 v0.0.0-20211005180243-6b3c2da341f1 // indirect
-	golang.org/x/sys v0.0.0-20210823070655-63515b42dcdf // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/term v0.0.0-20210220032956-6a3ed077a48d // indirect
 	golang.org/x/text v0.3.6 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
